@@ -16,6 +16,10 @@
 - MapStruct 1.4.2.Final
 ```
 
+### POSTMAN FILE
+
+- [POSTMAN](booking/booking.postman_collection.json)
+
 ### ENDPOINTS
 
 - Server Port: 8080
