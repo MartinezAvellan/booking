@@ -38,8 +38,8 @@
 - http-status-code 200
 {
 	"id": 1,
-	"start_date": "2021-09-26",
-	"end_date": "2021-09-28"
+	"start_date": "2022-07-01",
+	"end_date": "2022-09-28"
 }
 ```
 
@@ -50,8 +50,8 @@
 - http-status-code 200
 {
 	"id": 1,
-	"start_date": "2021-09-26",
-	"end_date": "2021-09-28"
+	"start_date": "2022-07-01",
+	"end_date": "2022-09-28"
 }
 ```
 ### UPDATE A BOOKING - /booking/v1/update - PATCH
@@ -60,8 +60,8 @@
 ```json
 {
 	"id": 1,
-	"start_date": "2021-09-26",
-	"end_date": "2021-09-28"
+	"start_date": "2022-07-01",
+	"end_date": "2022-09-28"
 }
 ```
 
@@ -71,8 +71,8 @@
 - http-status-code 200
 {
 	"id": 1,
-	"start_date": "2021-09-26",
-	"end_date": "2021-09-28"
+	"start_date": "2022-07-01",
+	"end_date": "2022-09-28"
 }
 ```
 
