@@ -18,7 +18,7 @@
 
 ### POSTMAN FILE
 
-- [POSTMAN](./booking/booking.postman_collection.json)
+- [POSTMAN](https://github.com/MartinezAvellan/booking/blob/main/booking.postman_collection.json)
 
 ### ENDPOINTS
 
