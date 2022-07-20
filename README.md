@@ -18,7 +18,7 @@
 
 ### POSTMAN FILE
 
-- [POSTMAN](booking/booking.postman_collection.json)
+- [POSTMAN](./booking/booking.postman_collection.json)
 
 ### ENDPOINTS
 
